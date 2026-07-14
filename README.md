@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manish! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28">
+# 👋 Hi, I'm Manish!
 
 <p align="center">
   <a href="https://github.com/your-username">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/deepesh-dev?label=Followers&style=for-the-badge&color=FF007F&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=FF007F&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Studies-B.Tech%20AI-7B2CBF?style=for-the-badge&logo=cpu" alt="Studies" />
   <img src="https://img.shields.io/badge/Framework-MERN%20%2F%20Unity-FF007F?style=for-the-badge&logo=react" alt="Tech Stack" />
 </p>
@@ -16,18 +16,18 @@
 
 ### 🚀 About Me
 
-I am an ambitious **Bachelor of Technology (B.Tech) student specializing in Artificial Intelligence** at **Purbanchal University** [cite: User Summary]. Driven by a passion for architectural design, I've spent over five years working with JavaScript and building highly custom applications [cite: User Summary]. 
+I am an ambitious **Bachelor of Technology (B.Tech) student specializing in Artificial Intelligence** at **Purbanchal University**. Driven by a passion for architectural design, I've spent over five years working with JavaScript and building highly custom applications. 
 
 My creative outlets merge two main domains: 
-- 🌐 **Web Architectures:** Forging reliable, modular backend pipelines using custom stacks (MongoDB, Clerk, ImageKit) and Next.js interfaces [cite: User Summary].
-- 🎮 **Immersive Experiences:** Crafting asymmetrical mechanics and spatial logic within the **Unity Engine** utilizing C# [cite: User Summary].
+- 🌐 **Web Architectures:** Forging reliable, modular backend pipelines using custom stacks (MongoDB, Clerk, ImageKit) and Next.js interfaces.
+- 🎮 **Immersive Experiences:** Crafting asymmetrical mechanics and spatial logic within the **Unity Engine** utilizing C#.
 
 ---
 
 ### 🛠️ Tech Stack & Powers
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepesh-dev&theme=tokyonight&margin-w=15&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&column=4" alt="Trophies" />
 </div>
 
 <br>
@@ -36,11 +36,11 @@ My creative outlets merge two main domains:
   <thead>
     <tr>
       <th width="50%">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V6OXJ6YzhvMGg1dHpsZXgwcXQ4ZW9sZXZrcWc1NWN4ZTF5MGk5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55t4e1165cYt/giphy.gif" width="20" /> 
+        🌐 
         <span style="color:#FF007F">Web & Systems Engine</span>
       </th>
       <th width="50%">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdrMXlhcTcxZTk5bzAwYmlvczY5NGRpaGRtcm1rbHRubG81YXVvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8u6vD49WfVd6rOnyX/giphy.gif" width="20" /> 
+        🎮 
         <span style="color:#7B2CBF">Unity & Production</span>
       </th>
     </tr>
@@ -65,11 +65,11 @@ My creative outlets merge two main domains:
     </tr>
     <tr>
       <th>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdzY2UxaTNpaGdxNm0yY3lndDltZXloOHR2aGxldGxtd3NqbmI2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp9fHclK8RCO0N6M2X/giphy.gif" width="20" /> 
+        🤖 
         <span style="color:#FF007F">Hardware & AI Core</span>
       </th>
       <th>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB5dGZkZmU0dzZobG55aTNhZnpicnNoaXNkbWl1N3VleTdsMXdkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f08fIAtS739r871Y7Y/giphy.gif" width="20" /> 
+        🗣️ 
         <span style="color:#7B2CBF">Linguistic Architecture</span>
       </th>
     </tr>
@@ -93,24 +93,24 @@ My creative outlets merge two main domains:
 ### 🔭 Projects in Motion
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepesh-dev&repo=JobFlow&theme=tokyonight&border_color=FF007F" alt="JobFlow Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=JobFlow&theme=tokyonight&border_color=FF007F" alt="JobFlow Project" />
 </div>
 
-- **🎮 Project Predators:** Developing an asymmetrical survival-horror systems prototype in Unity featuring advanced animal AI tracking algorithms (Bears, Tigers) [cite: User Summary].
-- **🌐 Next.js Portals:** Designing hyper-modular full-stack boilerplates incorporating headless architectures, independent Auth pipelines (Clerk), and robust image management [cite: User Summary].
-- **📐 Low-Poly Isometric Design:** Building a curated library of custom game environment assets inside Blender to drive responsive structural placement in dungeon-crawlers [cite: User Summary].
+- **🎮 Project Predators:** Developing an asymmetrical survival-horror systems prototype in Unity featuring advanced animal AI tracking algorithms (Bears, Tigers).
+- **🌐 Next.js Portals:** Designing hyper-modular full-stack boilerplates incorporating headless architectures, independent Auth pipelines (Clerk), and robust image management.
+- **📐 Low-Poly Isometric Design:** Building a curated library of custom game environment assets inside Blender to drive responsive structural placement in dungeon-crawlers.
 
 ---
 
 ### ⚡ Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepesh-dev&theme=tokyonight&hide_border=true&ring=FF007F&fire=FF4500" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-dev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=FF007F&fire=FF4500" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepesh-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF007F&icon_color=7B2CBF" alt="GitHub Stats" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF007F&icon_color=7B2CBF" alt="GitHub Stats" width="80%" />
 </p>
 
 ---
@@ -129,9 +129,7 @@ My creative outlets merge two main domains:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andryback/andryback/master/animated-line.gif" width="100%" height="8px" />
-</p>
+---
 
 <p align="center">
   <sub>"To understand a system completely, you must construct its logic from the baseline up." ⚡</sub>
