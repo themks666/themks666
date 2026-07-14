@@ -1,85 +1,138 @@
-# 👋 Hi, I'm Manish!
+# 👋 Hi, I'm Manish! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Unity+Game+Designer;AI+Undergrad+%40+PU;Hardware+%26+Robotics+Enthusiast" alt="Typing SVG" />
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Architect;Unity+Gameplay+Programmer;AI+Undergraduate+%40+PU;Hardware+%26+Robotics+Hacker" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/deepesh-dev?label=Followers&style=for-the-badge&color=00F2FE&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Studies-B.Tech%20AI-4FACFE?style=for-the-badge&logo=cpu" alt="Studies" />
+  <img src="https://img.shields.io/badge/Framework-MERN%20%2F%20Unity-00F2FE?style=for-the-badge&logo=react" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a passionate **Bachelor of Technology (B.Tech) student specializing in Artificial Intelligence** at **Purbanchal University**. With over five years of experience in JavaScript and a deep foundation in full-stack architecture, I enjoy building complex web ecosystems from scratch and bringing interactive, immersive worlds to life using game engines. 
+I am an ambitious **Bachelor of Technology (B.Tech) student specializing in Artificial Intelligence** at **Purbanchal University**. Driven by a passion for architectural design, I've spent over four years working with JavaScript and building highly custom applications. 
 
-My engineering philosophy leans toward architectural understanding—frequently assembling specialized, modular services to construct highly transparent backend logic. When I'm not writing code for the web, I am diving deep into gameplay mechanics, scripting mechanics, or interfacing software with hardware.
+My creative outlets merge two main domains: 
+- 🌐 **Web Architectures:** Forging reliable, modular backend pipelines using custom stacks (MongoDB, Clerk, ImageKit) and Next.js interfaces.
+- 🎮 **Immersive Experiences:** Crafting asymmetrical mechanics and spatial logic within the **Unity Engine** utilizing C#.
 
 ---
 
-### 🛠️ Tech Stack & Skillset
+### 🛠️ Tech Stack & Powers
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Web Development</h4>
-      <ul>
-        <li><strong>Frontend:</strong> React.js, Next.js, HTML5, CSS3, TailwindCSS</li>
-        <li><strong>Backend & DB:</strong> Node.js, Express.js, MongoDB</li>
-        <li><strong>Auth & Media:</strong> Clerk, ImageKit</li>
-        <li><strong>Environment:</strong> WSL (Ubuntu), Git & GitHub</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎮 Game Dev & 3D Modeling</h4>
-      <ul>
-        <li><strong>Engine & Language:</strong> Unity Engine, C#</li>
-        <li><strong>Design Core:</strong> Asymmetrical Horror Mechanics, Dungeon Crawlers</li>
-        <li><strong>3D Assets:</strong> Blender (Low-poly & Isometric Assets)</li>
-        <li><strong>Logic:</strong> Computational Mathematics & Pathfinding Algorithms</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Hardware & Robotics</h4>
-      <ul>
-        <li><strong>Microcontrollers:</strong> Arduino Uno / Nano</li>
-        <li><strong>Frameworks:</strong> Johnny-Five (JavaScript Robotics)</li>
-        <li><strong>Components:</strong> Servos, Ultrasonic Sensors, Motor Drivers</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗣️ Languages</h4>
-      <ul>
-        <li><strong>Native/Fluent:</strong> Nepali, Bajjika</li>
-        <li><strong>Actively Learning:</strong> Chinese, Doteli</li>
-      </ul>
-    </td>
-  </tr>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepesh-dev&theme=tokyonight&margin-w=15&column=4" alt="Trophies" />
+</div>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V6OXJ6YzhvMGg1dHpsZXgwcXQ4ZW9sZXZrcWc1NWN4ZTF5MGk5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55t4e1165cYt/giphy.gif" width="20" /> 
+        <span style="color:#00F2FE">Web & Systems Engine</span>
+      </th>
+      <th width="50%">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdrMXlhcTcxZTk5bzAwYmlvczY5NGRpaGRtcm1rbHRubG81YXVvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8u6vD49WfVd6rOnyX/giphy.gif" width="20" /> 
+        <span style="color:#4FACFE">Unity & Production</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/express.js-%23404d59.style=flat-square&logo=express&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/WSL-Linux-blue?style=flat-square&logo=linux" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdzY2UxaTNpaGdxNm0yY3lndDltZXloOHR2aGxldGxtd3NqbmI2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp9fHclK8RCO0N6M2X/giphy.gif" width="20" /> 
+        <span style="color:#00F2FE">Hardware & AI Core</span>
+      </th>
+      <th>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB5dGZkZmU0dzZobG55aTNhZnpicnNoaXNkbWl1N3VleTdsMXdkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f08fIAtS739r871Y7Y/giphy.gif" width="20" /> 
+        <span style="color:#4FACFE">Linguistic Architecture</span>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/Johnny_Five-JS-yellow?style=flat-square&logo=javascript" /><br/>
+        <img src="https://img.shields.io/badge/Artificial_Intelligence-Undergrad-blueviolet?style=flat-square" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Nepali-Fluent-4FACFE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bajjika-Native-00F2FE?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Learning-Chinese%20%26%20Doteli-success?style=flat-square" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 🏗️ Current Focus & Projects
+### 🔭 Projects in Motion
 
-- **🎮 Asymmetrical Horror Game:** Developing an original survival mechanics system in Unity where players evade highly reactive apex predators (bears, tigers) using advanced sensory AI.
-- **🌐 Custom Web Ecosystems:** Refining scalable full-stack boilerplate architectures optimizing decoupled authentication and media delivery frameworks.
-- **🎯 3D Isometric Worlds:** Modeling modular environmental assets in Blender optimized for tactical grid-based dungeon crawlers.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepesh-dev&repo=JobFlow&theme=tokyonight&border_color=00F2FE" alt="JobFlow Project" />
+</div>
+
+- **🎮 Project Predators:** Developing an asymmetrical survival-horror systems prototype in Unity featuring advanced animal AI tracking algorithms (Bears, Tigers).
+- **🌐 Next.js Portals:** Designing hyper-modular full-stack boilerplates incorporating headless architectures, independent Auth pipelines (Clerk), and robust image management.
+- **📐 Low-Poly Isometric Design:** Building a curated library of custom game environment assets inside Blender to drive responsive structural placement in dungeon-crawlers.
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepesh-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepesh-dev&theme=tokyonight&hide_border=true&ring=00F2FE&fire=FF4500" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-dev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepesh-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=4FACFE" alt="GitHub Stats" width="80%" />
 </p>
 
 ---
 
-### 📬 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/yourusername](#) <!-- Update with your actual link -->
-- **Portfolio:** [yourportfolio.com](#) <!-- Update with your actual link -->
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+### 🤝 Let's Connect!
 
 <p align="center">
-  <sub>⚡ "To understand a system, build it from the copper up."</sub>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ghost&logoColor=00F2FE" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andryback/andryback/master/animated-line.gif" width="100%" height="8px" />
+</p>
+
+<p align="center">
+  <sub>"To understand a system completely, you must construct its logic from the baseline up." ⚡</sub>
+</p>
