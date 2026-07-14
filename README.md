@@ -3,11 +3,9 @@
 # Hi, I'm Manish Kumar Sah 👋
 
 ### B.Tech Artificial Intelligence Student • Full Stack Web Developer • Unity Developer • Blender 3D Artist
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+bold&weight=1000&size=22&duration=3000&pause=1200&color=7FFFD4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Learning+Unity+Game+Development;Creating+3D+Worlds+with+Blender;Passionate+about+Artificial+Intelligence" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1200&color=7FFFD4&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Learning+Unity+Game+Development;Creating+3D+Worlds+with+Blender;Passionate+about+Artificial+Intelligence" alt="Typing SVG" />
 </p>
-
 </div>
 
 ---
