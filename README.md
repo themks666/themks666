@@ -5,7 +5,7 @@
 ### B.Tech Artificial Intelligence Student • Full Stack Web Developer • Unity Developer • Blender 3D Artist
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Learning+Unity+Game+Development;Creating+3D+Worlds+with+Blender;Passionate+about+Artificial+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Learning+Unity+Game+Development;Creating+3D+Worlds+with+Blender;Passionate+about+Artificial+Intelligence" />
 </p>
 
 </div>
