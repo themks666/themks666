@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deepesh!
+# 👋 Hi, I'm Manish!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Unity+Game+Designer;AI+Undergrad+%40+PU;Hardware+%26+Robotics+Enthusiast" alt="Typing SVG" />
