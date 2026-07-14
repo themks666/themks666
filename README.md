@@ -1,87 +1,76 @@
-# <div align="center">
+<div align="center">
 
-# Hi 👋, I'm **Manish Kumar Sah**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Manish Kumar Sah
 
-### 🚀 B.Tech AI Student | 🌐 Full Stack Web Developer | 🎮 Unity Game Developer | 🎨 3D Artist
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=B.Tech+AI+Student;Full+Stack+Web+Developer;Unity+Game+Developer;Blender+3D+Artist;Always+Learning+Something+New" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full+Stack+Web+Developer;Unity+Game+Developer;Blender+3D+Artist;Always+Learning+New+Technologies" alt="Typing SVG" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=00F7FF&color=0:0F0C29,50:302B63,100:24243E&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 💫 About Me
 
-```yaml
-Name: Manish Kumar Sah
-Location: Nepal 🇳🇵
-Education: Bachelor of Technology in Artificial Intelligence
-College: Orchid College, Purbanchal University
-Interests:
-  - Unity Game Development
-  - Web Development
-  - Artificial Intelligence
-  - 3D Modeling & Animation
-  - Open Source Projects
+```javascript
+const manish = {
+    location: "Nepal 🇳🇵",
+    education: "B.Tech in Artificial Intelligence",
+    interests: [
+        "🌐 Full Stack Web Development",
+        "🎮 Unity Game Development",
+        "🧊 Blender 3D Modeling",
+        "🤖 Artificial Intelligence"
+    ],
+    currentlyLearning: [
+        "Unity",
+        "Blender",
+        "Advanced MERN Stack",
+        "Game Programming"
+    ],
+    lifePhilosophy: "Code • Create • Learn • Repeat"
+}
 ```
-
-💡 Passionate about building modern web applications, immersive games, and realistic 3D experiences.
-
-🎮 Currently exploring advanced game development using **Unity** and **C#**.
-
-🌐 Building full-stack applications using modern web technologies.
-
-🎨 Creating 3D models, environments, and assets using **Blender**.
-
-📚 Continuously learning AI, software engineering, and interactive technologies.
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,cs" />
-</p>
+# 🚀 Tech Arsenal
 
 ### 🌐 Web Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,mongodb" />
-</p>
-
-### 🎮 Game Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=unity" />
-</p>
-
-### 🎨 3D & Design
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=blender" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode&perline=6"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+### 🎮 Game Development
 
-🔹 Building modern MERN & Next.js applications
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unity,cs,blender"/>
+</p>
 
-🔹 Learning advanced Unity game development
+---
 
-🔹 Creating 3D assets and environments in Blender
+### 💻 Languages
 
-🔹 Exploring Artificial Intelligence and Machine Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,python,cs"/>
+</p>
 
-🔹 Contributing to open-source projects
+---
+
+# 🌌 Currently Exploring
+
+> 🎮 Building games with Unity
+
+> 🧊 Creating 3D Assets in Blender
+
+> 🌐 Developing Full Stack Applications
+
+> 🤖 Exploring Artificial Intelligence
 
 ---
 
@@ -89,9 +78,9 @@ Interests:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themks666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themks666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
 
 </div>
 
@@ -101,70 +90,99 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=themks666&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
 ---
 
-# 🎮 Developer Quote
+# 📈 Contribution Graph
 
 <div align="center">
 
-> "Code creates possibilities, games create experiences, and creativity brings ideas to life."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=themks666&theme=tokyo-night&hide_border=true&line=00F7FF&point=00F7FF"/>
 
 </div>
 
 ---
 
-# 🌈 Interests
+# 🏆 GitHub Trophies
 
-<table>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=themks666&theme=algolia&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 🌟 Interests
+
+<table align="center">
 <tr>
 <td align="center">
 
-### 🎮 Unity
+🎮 **Unity**
 
 Game Mechanics
-C# Scripting
-2D & 3D Games
 
 </td>
 
 <td align="center">
 
-### 🎨 Blender
+🧊 **Blender**
 
 3D Modeling
-Animation
-Environment Design
 
 </td>
 
 <td align="center">
 
-### 🌐 Web Dev
+🌐 **Web Dev**
 
-MERN Stack
-Next.js
-Modern UI/UX
+Modern Websites
 
 </td>
+
+<td align="center">
+
+🤖 **AI**
+
+Machine Learning
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 📈 Activity Graph
+# 🎯 2026 Goals
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+- 🚀 Become an Advanced Full Stack Developer
+- 🎮 Publish a Unity Game
+- 🧊 Master Blender
+- 🤖 Build AI-powered Applications
+- ⭐ Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/themks666">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💚 Thanks for visiting my profile!
+### ⚡ "Dream. Develop. Deploy."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00ff99&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:00F7FF&height=120&section=footer"/>
 
 </div>
